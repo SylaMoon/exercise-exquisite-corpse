@@ -1,2 +1,1 @@
-# exercise-exquisite-corpse
-Domination des chats 
+# Domination des chats 
